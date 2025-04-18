@@ -1,0 +1,3 @@
+# 忽略 Office 临时文件
+~.docx
+*.tmp
