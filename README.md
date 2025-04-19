@@ -5,6 +5,7 @@
 ![Zotero Required](https://img.shields.io/badge/Zotero-6.0%2B-FF6F00)
 
 Harbin Institute of Technology (HIT) undergraduate thesis Word template | updated continuously​
+
 ​**持续更新维护 | 适配学校格式规范 | 自动化排版解决方案**
 
 ---
