@@ -23,7 +23,6 @@ Harbin Institute of Technology (HIT) undergraduate thesis Word template | update
 ## 🚀 快速入门
 
 ### 视频教程
-[![HIT论文模板教程封面](https://i2.hdslb.com/bfs/archive/0c9f5d5e7d5e9d7e5f5d7e5d9e7d5e9d.jpg@640w_400h_1c_!web-video-card.webp)](https://www.bilibili.com/video/BV1415bzLEid)
 
 | 平台 | 地址 |
 |------|------|
