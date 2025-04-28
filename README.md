@@ -43,8 +43,15 @@ hit-thesis-template-word/
 1. 下载安装 [Zotero](https://www.zotero.org/)
 2. 自行熟悉Zotero使用；
 3. 导入文献样式：
+   Zotero7.0之前版本
    ```diff
    Zotero > 编辑 > 首选项 > 引用 > 样式 > ‘+’
+   选择项目内 styles/ 目录下的：
+   + china-national-standard-gb-t-7714-2015-numeric-etal-nodoi-fullwidth-nonumber.csl
+   ```
+   Zotero7.0之后版本
+   ```diff
+   Zotero > 编辑 > 设置 > 引用 >  ‘+’
    选择项目内 styles/ 目录下的：
    + china-national-standard-gb-t-7714-2015-numeric-etal-nodoi-fullwidth-nonumber.csl
    ```
