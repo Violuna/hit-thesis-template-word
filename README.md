@@ -43,6 +43,7 @@ hit-thesis-template-word/
 1. 下载安装 [Zotero](https://www.zotero.org/)
 2. 自行熟悉Zotero使用；
 3. 导入文献样式：
+   
    Zotero7.0之前版本
    ```diff
    Zotero > 编辑 > 首选项 > 引用 > 样式 > ‘+’
